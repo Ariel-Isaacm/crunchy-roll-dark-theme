@@ -7,7 +7,7 @@
 
   "content_scripts": [{
     "css": ["styles.css"],
-    "matches": ["http://www.crunchyroll.com/*"]
+    "matches": ["https://www.crunchyroll.com/*"]
   }]
 
 }
