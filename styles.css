@@ -249,146 +249,159 @@ a .welcome-countdown-details {
 }
 
 li.large-margin-bottom > h3 {
-  color: white !important
+    color: white !important
 }
 
 li.large-margin-bottom > p:not(.availability-notes-low) {
-  color: white !important
+    color: white !important
 }
+
 .small-margin-right {
-  color: white !important
+    color: white !important
 }
-#showview_content_more{
-  color: white !important
+
+#showview_content_more {
+    color: white !important
 }
+
 /* Series Page // */
 
 
 /* Videos Page */
-li.large-margin-bottom > .follow-crunchyroll-social{
-  color: white !important
+li.large-margin-bottom > .follow-crunchyroll-social {
+    color: white !important
 }
 
-.sub-tabs-menu >  a {
-  color: rgba(160, 152, 149, .75) !important;
+.sub-tabs-menu > a {
+    color: rgba(160, 152, 149, .75) !important;
 }
 
-.sub-tabs-menu >  a.selected {
-  color: white !important
+.sub-tabs-menu > a.selected {
+    color: white !important
 }
 
-.portrait-element{
-  -webkit-box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
-  -moz-box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
-  box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
-  background-color: #222831 !important;
+.portrait-element {
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(56, 68, 77, 1);
+    -moz-box-shadow: 0px 5px 10px 2px rgba(56, 68, 77, 1);
+    box-shadow: 0px 5px 10px 2px rgba(56, 68, 77, 1);
+    background-color: #222831 !important;
 }
 
 /* Videos Page // */
 
 /* Calendar simulcast  */
 
-.calendar-day{
-  background-color: #30475e !important;
+.calendar-day {
+    background-color: #30475e !important;
 }
 
 .day-name {
-  color: white !important;
-}
-.js-season-name-link{
-  color: white !important;
+    color: white !important;
 }
 
-.label-text{
-  color: white !important;
-}
-.lineup-grid{
-background-color: rgb(37, 51, 65);
+.js-season-name-link {
+    color: white !important;
 }
 
-#showview_content_anime{
-  background-color: rgb(37, 51, 65);
+.label-text {
+    color: white !important;
 }
 
-#container{
-  background-color: rgb(37, 51, 65);
+.lineup-grid {
+    background-color: rgb(37, 51, 65);
 }
 
-.anime-lineup-heading{
-  color: white !important;
-}
-.anime-lineup-blurb{
-  color: white !important;
-}
-#showview_content_manga{
-  color: white !important;
+#showview_content_anime {
+    background-color: rgb(37, 51, 65);
 }
 
-.lineup-series-title{
-  color: white !important;
+#container {
+    background-color: rgb(37, 51, 65);
+}
+
+.anime-lineup-heading {
+    color: white !important;
+}
+
+.anime-lineup-blurb {
+    color: white !important;
+}
+
+#showview_content_manga {
+    color: white !important;
+}
+
+.lineup-series-title {
+    color: white !important;
 }
 
 /* Manga page  */
 
-.manga-countdown-day-title{
-  color: white !important;
+.manga-countdown-day-title {
+    color: white !important;
 }
 
-.coming-soon-title{
-  color: white !important;
+.coming-soon-title {
+    color: white !important;
 }
 
-.coming-soon-chapter{
-  color: white !important;
+.coming-soon-chapter {
+    color: white !important;
 }
 
 /* Chapter page */
 
-.season-dropdown{
-  background-color: rgb(37, 51, 65) !important;
-  color: white !important;
+.season-dropdown {
+    background-color: rgb(37, 51, 65) !important;
+    color: white !important;
 }
+
 .other-series > h3 {
-  color: white !important;
+    color: white !important;
 }
 
 .showmedia-submenu {
     background-color: #222831 !important;
     border: 1px rgb(56, 68, 77) solid;
 }
-.white-wrapper{
-  background-color: #222831 !important;
-  border: 1px rgb(56, 68, 77) solid;
+
+.white-wrapper {
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid;
 }
 
 .comments-header > h2 {
-  color: white !important;
+    color: white !important;
 }
-#showmedia_about_info_avail > h3{
-  color: white !important;
+
+#showmedia_about_info_avail > h3 {
+    color: white !important;
 }
 
 #showmedia_about_new > h3 {
-  color: white !important;
+    color: white !important;
 }
 
 #showmedia_about_media > h4 {
-  color: white !important;
+    color: white !important;
 }
+
 #showmedia_about_name {
-  color: white !important;
+    color: white !important;
 }
-.medium-margin-bottom{
-  color: white !important;
+
+.medium-margin-bottom {
+    color: white !important;
 }
+
 .collection-carousel-overlay-top {
-  color: white !important;
+    color: white !important;
 }
 
 .showmedia-related > h3 {
-  color: white !important;
+    color: white !important;
 }
 
 .follow-crunchyroll-social {
-  color: white !important;
+    color: white !important;
 }
