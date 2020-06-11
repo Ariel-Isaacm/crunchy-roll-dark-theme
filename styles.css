@@ -1,20 +1,394 @@
 #template_scroller {
-  background-color: black;
+    background-color: #222831;
 }
 
 #template_container {
-  background-color: black !important;
+    background-color: #222831 !important;
 }
 
 #header_beta {
-  background-color: black;
+    background-color: #222831;
 }
 
-.white-wrapper {
-  background-color: black !important;
+#header_beta > #header_container > .header-navigation > #header_menubar_beta
+> ul > li > a {
+    color: white !important;
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid;
+    border-radius: 15px;
 }
 
+#header_beta > #header_container > .header-navigation > #header_menubar_beta
+> ul > li > a:hover {
+    background-color: #1f4068 !important;
+    color: #f78c25 !important;
+}
+
+#header_beta > #header_container > .header-navigation > #header_menubar_beta
+> ul > .games {
+    background-color: #222831 !important;
+}
+
+#header_beta > #header_container > .header-navigation > #header_menubar_beta
+> ul > .store {
+    background-color: #222831 !important;
+}
+
+#header_search_input {
+    background-color: rgb(37, 51, 65);
+    color: rgb(195, 195, 195);
+    border-radius: 15px;
+}
+
+#header_search_form {
+    border-radius: 15px;
+    border: 1px rgb(56, 68, 77) solid;
+}
+
+#template_body {
+    border: 1px rgb(56, 68, 77) solid;
+    background-color: #222831 !important;
+}
+
+
+.welcome-block > h1 > a {
+    color: white !important;
+}
+
+.welcome-crnews-title {
+    color: white !important;
+}
+
+.welcome-crnews-contents {
+    color: white !important;
+}
+
+#marketing_box {
+    color: white !important;
+}
+
+.series-title {
+    color: white !important;
+}
+
+.landscape-element {
+    border: 1px rgb(56, 68, 77) solid;
+}
+
+#sidebar > h3 {
+    color: white;
+}
+
+.landscape-element:hover {
+    background-color: #1f4068 !important;
+}
 
 h1 {
-  color:#ecf0f1;
+    color: #ecf0f1;
+}
+
+.welcome-countdown-day {
+    color: white;
+}
+
+.welcome-countdown-items > li {
+    border: 1px rgb(56, 68, 77) solid;
+}
+
+a .welcome-countdown-details {
+    color: white;
+    width: auto !important;
+}
+
+.welcome-countdown-items > li > a:hover {
+    background-color: #1f4068 !important;
+}
+
+.welcome-news-title {
+    color: white !important;
+}
+
+.welcome-news-contents {
+    color: white !important;
+}
+
+#header_search_autocomplete {
+    background-color: #222831 !important;
+}
+
+#header_search_autocomplete > a:hover {
+    background-color: #30475e;
+}
+
+.header_search_result_name {
+    color: white !important;
+}
+
+.header_search_result_type {
+    color: white !important;
+}
+
+.js-simulcast-series-link {
+    color: white !important;
+}
+
+.welcome-simulcasts-episode {
+    color: white !important;
+}
+
+.welcome-simulcasts-episode:hover {
+    background-color: #30475e !important;
+}
+
+.series {
+    color: white !important;
+}
+
+.name {
+    color: white !important;
+}
+
+.ordernum {
+    color: white !important;
+}
+
+#footer {
+    /* background-color: #222831 !important; */
+}
+
+#footer_menu {
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid;
+}
+
+/* Main Page // */
+
+/* Series Page */
+.main-page {
+    background-color: #222831 !important;
+}
+
+.sub-tabs {
+    background-color: #222831 !important;
+}
+
+#subtabs_videos_newest {
+    color: #30475e !important;
+}
+
+#subtabs_videos_oldest {
+    color: #30475e !important;
+}
+
+#subtabs_videos_oldest.selected {
+    color: white !important;
+}
+
+#subtabs_videos_newest.selected {
+    color: white !important;
+}
+
+#tabs {
+    background-color: #222831 !important;
+}
+
+.main-tabs {
+    background-color: #222831 !important;
+}
+
+.main-tabs > a {
+    color: rgba(160, 152, 149, .75) !important;
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid !important;
+}
+
+.main-tabs > a.selected {
+    color: white !important;
+}
+
+#subtabs_reviews > a {
+    color: rgba(160, 152, 149, .75) !important;
+}
+
+#subtabs_reviews > a.selected {
+    color: white !important;
+}
+
+.user-reviews__header {
+    color: white !important;
+}
+
+.user-reviews > ul > li {
+    color: rgba(160, 152, 149, .75) !important;
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid !important;
+}
+
+.review-title > .strong {
+    color: white !important;
+}
+
+.trunc {
+    color: white !important;
+}
+
+.guestbook-body {
+    color: white !important;
+}
+
+.guestbook-form {
+    background-color: #222831 !important;
+}
+
+#showview_content_comments {
+    color: white !important;
+}
+
+.guestbook-spoiler-checkbox {
+    color: white !important;
+}
+
+li.large-margin-bottom > h3 {
+  color: white !important
+}
+
+li.large-margin-bottom > p:not(.availability-notes-low) {
+  color: white !important
+}
+.small-margin-right {
+  color: white !important
+}
+#showview_content_more{
+  color: white !important
+}
+/* Series Page // */
+
+
+/* Videos Page */
+li.large-margin-bottom > .follow-crunchyroll-social{
+  color: white !important
+}
+
+.sub-tabs-menu >  a {
+  color: rgba(160, 152, 149, .75) !important;
+}
+
+.sub-tabs-menu >  a.selected {
+  color: white !important
+}
+
+.portrait-element{
+  -webkit-box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
+  -moz-box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
+  box-shadow: 0px 5px 10px 2px rgba(56,68,77,1);
+  background-color: #222831 !important;
+}
+
+/* Videos Page // */
+
+/* Calendar simulcast  */
+
+.calendar-day{
+  background-color: #30475e !important;
+}
+
+.day-name {
+  color: white !important;
+}
+.js-season-name-link{
+  color: white !important;
+}
+
+.label-text{
+  color: white !important;
+}
+.lineup-grid{
+background-color: rgb(37, 51, 65);
+}
+
+#showview_content_anime{
+  background-color: rgb(37, 51, 65);
+}
+
+#container{
+  background-color: rgb(37, 51, 65);
+}
+
+.anime-lineup-heading{
+  color: white !important;
+}
+.anime-lineup-blurb{
+  color: white !important;
+}
+#showview_content_manga{
+  color: white !important;
+}
+
+.lineup-series-title{
+  color: white !important;
+}
+
+/* Manga page  */
+
+.manga-countdown-day-title{
+  color: white !important;
+}
+
+.coming-soon-title{
+  color: white !important;
+}
+
+.coming-soon-chapter{
+  color: white !important;
+}
+
+/* Chapter page */
+
+.season-dropdown{
+  background-color: rgb(37, 51, 65) !important;
+  color: white !important;
+}
+.other-series > h3 {
+  color: white !important;
+}
+
+.showmedia-submenu {
+    background-color: #222831 !important;
+    border: 1px rgb(56, 68, 77) solid;
+}
+.white-wrapper{
+  background-color: #222831 !important;
+  border: 1px rgb(56, 68, 77) solid;
+}
+
+.comments-header > h2 {
+  color: white !important;
+}
+#showmedia_about_info_avail > h3{
+  color: white !important;
+}
+
+#showmedia_about_new > h3 {
+  color: white !important;
+}
+
+#showmedia_about_media > h4 {
+  color: white !important;
+}
+#showmedia_about_name {
+  color: white !important;
+}
+.medium-margin-bottom{
+  color: white !important;
+}
+.collection-carousel-overlay-top {
+  color: white !important;
+}
+
+.showmedia-related > h3 {
+  color: white !important;
+}
+
+.follow-crunchyroll-social {
+  color: white !important;
 }
